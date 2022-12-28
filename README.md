@@ -2,7 +2,7 @@
 
 Nama : Moch Afif Tanuwijaya\
 NIM : 1207050062\
-Kelas : IF C\
+Kelas : IF C
 
 ## Screenshots
 ![Screenshot]( img/1.png )
